@@ -1,4 +1,4 @@
-# Hi, I'm Akarah Grant 👋
+# Hi, I'm Akarah Grant 
 
 I build practical AI & Machine Learning projects.  
 
